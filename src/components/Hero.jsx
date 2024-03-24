@@ -32,7 +32,7 @@ const Hero = () => {
     <section className="w-full nav-height bg-black mt-2 relative">
       <div className="h-5/6 w-full flex-center flex-col">
         <p id="hero" className="hero-title">
-          iphone
+          iphone 15 pro
         </p>
 
         <div className="md:w-10/12 w-9/12">
